@@ -26,15 +26,6 @@ donde valores más altos indican mayor solidez financiera.
 ```
 ├── notebooks/
 │   └── capstone-quiebra-final_v3.ipynb   # Notebook principal (pipeline completo)
-├── docs/
-│   ├── entregable_2_objeto_de_estudio.pdf
-│   ├── entregable_3_planteamiento_problema.pdf
-│   ├── entregable_4_analisis_exploratorio.pdf
-│   └── activity_5_modelado_predictivo.pdf
-├── models/
-│   └── preprocessing_params.pkl           # Parámetros de preprocesamiento (para despliegue)
-├── app/
-│   └── app_streamlit.py                   # Aplicación de puntuación (Streamlit)
 └── README.md
 ```
 
