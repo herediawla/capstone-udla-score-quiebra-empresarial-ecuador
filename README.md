@@ -66,7 +66,7 @@ División temporal
     │
     ▼
 Balanceo de clases
-(SMOTE ratio 0.3 — solo en entrenamiento)
+(BORDERLINESMOTE ratio 0.5 — solo en entrenamiento)
     │
     ▼
 Entrenamiento y validación cruzada
