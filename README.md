@@ -1,6 +1,6 @@
 # Modelo de Score de Quiebra Empresarial en el Ecuador
 
-**Maestría en Business Intelligence y Ciencia de Datos**  
+**Maestría en Inteligencia de Negociosy Ciencia de Datos**  
 **Universidad de las Américas (UDLA)**  
 **Autor:** Wladimir Heredia  
 **Director de tesis:** Manuel Eugenio Morocho Cayamcela  
